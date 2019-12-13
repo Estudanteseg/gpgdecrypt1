@@ -1,12 +1,12 @@
 # *********************************************************************************
-# * Do not forget to enjoy my code in github estudentseg/feecode
+# * Do not forget to enjoy my code in github estudanteseg/gpgdecrypt1
 # *********************************************************************************
 # * Author: estudanteseg
 # *********************************************************************************
 # * Description: This simple program makes brute force into a gpg file 
 # * using a password dictionary generating a decrypted output file.
 # *********************************************************************************
-# * Example: $ ./decgpg myfile.gpg myfileout.txt /usr/share/wordlists/rockyou.txt
+# * Example: $ ./gpgdecrypt1 myfile.gpg myfileout.txt /usr/share/wordlists/rockyou.txt
 # *********************************************************************************
 
 #!/bin/bash
